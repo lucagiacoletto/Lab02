@@ -1,5 +1,5 @@
 def carica_da_file(file_path):
-    """Carica i libri dal file"""
+    """Carica i libri dal file ciao"""
     # TODO
 
 
@@ -9,7 +9,7 @@ def aggiungi_libro(biblioteca, titolo, autore, anno, pagine, sezione, file_path)
 
 
 def cerca_libro(biblioteca, titolo):
-    """Cerca un libro nella biblioteca dato il titolo"""
+    """Cerca un libfgffghvghcvhro nella biblioteca dato il titolo"""
     # TODO
 
 
